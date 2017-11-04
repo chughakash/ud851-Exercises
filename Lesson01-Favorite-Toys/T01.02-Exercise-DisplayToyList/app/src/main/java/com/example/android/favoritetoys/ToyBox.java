@@ -57,15 +57,6 @@ public final class ToyBox {
                 "Square Puzzle Cube",
                 "Football",
                 "Intergalactic Electronic Phasers",
-                "Baby Horse Dolls",
-                "Machines that turn into other Machines",
-                "Teddy Bears",
-                "Shaved Ice Maker",
-                "Glow Stick",
-                "Squirt Guns",
-                "Miniature Replica Animals Stuffed with Beads that you swore to your parents would be worth lots of money one day",
-                "Creepy Gremlin Doll",
-                "Neodymium-Magnet Toy"
         };
     }
 }
